@@ -1,7 +1,7 @@
 # automated-data-cleaning-tool
 Project: Automated Data Cleaning Tool for Healthcare Datasets
 Background:
-During my internship at a healthcare research institute, I observed that data cleaning was a time-consuming and error-prone process. Researchers spent significant effort manually identifying and correcting inconsistencies, missing values, and outliers in large healthcare datasets. To address this challenge, I decided to create an automated data cleaning tool.
+During my work at a healthcare research institute, I observed that data cleaning was a time-consuming and error-prone process. Researchers spent significant effort manually identifying and correcting inconsistencies, missing values, and outliers in large healthcare datasets. To address this challenge, I decided to create an automated data cleaning tool.
 
 My Contributions:
 Design and Implementation:
